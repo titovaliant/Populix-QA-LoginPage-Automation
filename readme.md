@@ -10,13 +10,13 @@ framework is an organized way maintaining automation files.
 
 In the framework all the files will communicate each other to perform certain task.
 
-## Objective/Goals:
+### Objective/Goals:
 1). Re-usuability
 
 2). Maintainability
 
-## Concepts Included
--------------------
+### Concepts Included
+
 1). Built-in Frameworks
     pytest
 
