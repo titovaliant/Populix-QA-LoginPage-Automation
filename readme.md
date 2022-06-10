@@ -5,11 +5,6 @@ Automation Using Selenium Hybrid Framework
 Prepared by:
 **Tito Valiant Muhammad - QA Engineer Candidate**
 
-### What is Framework?
-framework is an organized way maintaining automation files.
-
-In the framework all the files will communicate each other to perform certain task.
-
 ### Objective/Goals:
 1). Re-usuability
 
@@ -113,6 +108,8 @@ To run Function tests only, navigate to `/testCases` directory and run:
 
 B. Create a Bash Script for login function with following requirements is available inside this file. I Name it with `login.sh`
 
-C. Explain briefly between test suite, test case, and test step! is available inside this file. I Name it with `tes teori POPULIX bab C & D.txt`
+C. Explain briefly between test suite, test case, and test step! is available inside this file. 
+   I Name it with `tes teori POPULIX bab C & D.txt`
 
-D. What's the difference between regression test and non-regression test? is available inside this file. I Name it with `tes teori POPULIX bab C & D.txt`
+D. What's the difference between regression test and non-regression test? is available inside this file. 
+   I Name it with `tes teori POPULIX bab C & D.txt`
