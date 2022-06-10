@@ -76,35 +76,38 @@ In the case of test failures, a screen-shot of the UI at the point of failure is
 
 The project is broken into separate Folder and Package.
 
-# all testCases/Modules:
+### all testCases/Modules:
 To run all modules, navigate to `/testCases` directory and run:
 
 `$ pytest  -v --html=Reports\report_ALL_TestCases.html testCases --self-contained-html`
 
 *NOTE*: They will also generate a security risks HTML report in `Reports\report_ALL_TestCases.html`
 
-# valid test:
+### valid test:
 To run Valid Login tests only, navigate to `/testCases` directory and run:
 
 `$ pytest  -v --html=Reports\report_valid_Test.html testCases\test_login_valid.py --self-contained-html`
 
 *NOTE*: They will also generate a security risks HTML report in `Reports\report_valid_Test.html`
 
-# invalid test:
+### invalid test:
 To run Invalid Login tests only, navigate to `/testCases` directory and run:
 
 `$ pytest  -v --html=Reports\report_Invalid_Test.html testCases\test_login_invalid.py --self-contained-html`
 
 *NOTE*: They will also generate a security risks HTML report in `Reports\report_Invalid_Test.html`
 
-# function test:
+### function test:
 To run Function tests only, navigate to `/testCases` directory and run:
 
 `$ pytest  -v --html=Reports\report_function_Test.html testCases\test_login_function.py --self-contained-html`
 
 *NOTE*: They will also generate a security risks HTML report in `'Reports\report_function_Test.html'`
 
-#*POPULIX RECRUITER NOTE*: 
+### *POPULIX RECRUITER NOTE*: 
+
 B. Create a Bash Script for login function with following requirements is available inside this file. I Name it with login.sh
+
 C. Explain briefly between test suite, test case, and test step! is available inside this file. I Name it with setup.txt
+
 D. What's the difference between regression test and non-regression test? is available inside this file. I Name it with setup.txt
