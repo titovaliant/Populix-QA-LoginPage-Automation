@@ -33,28 +33,37 @@ In order to utilise this project you need to have the following installed locall
 * Python
 * Chrome and Chromedriver
 * Selenium : Selenium Webdriver
-    ```
+    
     On Terminal use this command (inside the SQAlogin Populix folder):
+    ```
     $ pip install selenium
     ```
 * Pytest : Python UnitTest framework
-    ```
+    
     On Terminal use this command (inside the SQAlogin Populix folder):
+    ```
     $ pip install -U pytest
     ```
 * pytest-html : PyTest HTML Reports
-    ```
+    
     On Terminal use this command (inside the SQAlogin Populix folder):
+    ```
     $ pip install pytest-html
+    ```
+    ```
     $ pip install pytest-metadata
     ```
 * Openpyxl : MS Excel Support
-    ```
+    
     On Terminal use this command (inside the SQAlogin Populix folder):
+    ```
     $ pip install openpyxl
     ```
-*  `$ pip install virtualenv`
-
+* Virtual Env Python:
+    On Terminal use this command (inside the SQAlogin Populix folder):
+    ```
+    $ pip install virtualenv`
+    ```
 ## 3. Reporting
 
 Reports for each module are written into their respective `/Reports` directories after a successful run with HTML Reports format.
