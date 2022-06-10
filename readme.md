@@ -60,6 +60,7 @@ In order to utilise this project you need to have the following installed locall
     $ pip install openpyxl
     ```
 * Virtual Env Python:
+    
     On Terminal use this command (inside the SQAlogin Populix folder):
     ```
     $ pip install virtualenv`
