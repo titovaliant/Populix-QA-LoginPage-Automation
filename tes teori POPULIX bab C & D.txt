@@ -1,0 +1,30 @@
+C. Explain briefly between test suite, test case, and test step!
+
+1. Test Suite:
+Test suites are a collection of test cases, Test suites are created 
+based on the scope of the test plan.
+They could contain any kind of tests, functional or Non-Functional.
+In other words test suites as the “folder” your test cases are stored in.
+
+2. Test Case: 
+A set of test case preconditions, inputs (including actions, step, where applicable),
+expected results, postconditions, developed to drive the execution of a test item
+to meet test objectives.
+
+3. Test Step:
+Test Steps describe the execution steps and expected results that are documented 
+against each one of those steps of testing. Each step is marked pass, fail or block/skip 
+based on the comparison result between the expected and actual outcome.
+
+D. What's the difference between regression test and non-regression test?
+
+1. Regression test:
+Testing unchanged areas of existing functionality to verify
+they are not affected by the code modifications.
+The aim of regression testing is to ensure that modification in the code 
+does not introduced any errors in the existing functionality of application,
+not to test if the bug itself has been fixed.
+
+2. Non-Regression test:
+Non-regression testing is to verify whether a new or modified 
+functionality work correctly or not with the assumption that the previous functionality wasn't affected

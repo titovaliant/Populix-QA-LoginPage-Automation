@@ -1,0 +1,19 @@
+$ python --version
+$ pip install selenium
+$ pip install -U pytest
+->pytest --version
+$ pip install pytest-html
+-pip install pytest-metadata
+
+$ pip install openpyxl
+$ pip install virtualenv
+->virtualenv venv
+
+all testCases test:
+pytest  -v --html=Reports\report_ALL_TestCases.html testCases --self-contained-html
+
+valid test:
+pytest  -v --html=Reports\report_valid_Test.html testCases\test_login_valid.py --self-contained-html
+
+invalid test:
+pytest  -v --html=Reports\report_Invalid_Test.html testCases\test_login_invalid.py --self-contained-html

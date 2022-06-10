@@ -1,0 +1,220 @@
+06/10/2022 11:29:21 AM: INFO: === Test_1_invalid_Login_wrong format EMAIL ===
+06/10/2022 11:29:23 AM: INFO: === test 1_invalid wrong format Email Login Test: PASS
+06/10/2022 11:29:29 AM: INFO: === Test_1_invalid_Login_wrong format EMAIL ===
+06/10/2022 11:29:30 AM: INFO: === test 1_invalid wrong format Email Login Test: PASS
+06/10/2022 11:29:37 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:29:39 AM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 11:29:46 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:29:48 AM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 11:29:55 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:29:57 AM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 11:30:04 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:30:13 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:30:21 AM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 11:43:10 AM: INFO: === Test_5_valid TAB key ===
+06/10/2022 11:43:21 AM: INFO: === Test_5_valid TAB key Test: PASS
+06/10/2022 11:46:46 AM: INFO: === Test_1_Title_Login ===
+06/10/2022 11:46:50 AM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 11:46:53 AM: INFO: === Test_2_valid_Login ===
+06/10/2022 11:47:04 AM: INFO: === test 2_Valid Login Test: PASS
+06/10/2022 11:47:06 AM: INFO: === Test_3_password_eye_icon ===
+06/10/2022 11:47:14 AM: INFO: === test 3_password eye Test: PASS
+06/10/2022 11:47:17 AM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 11:47:21 AM: INFO: === Test_5_valid TAB key ===
+06/10/2022 11:48:57 AM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 11:49:06 AM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 11:49:08 AM: INFO: === Test_2_valid_Login ===
+06/10/2022 11:49:14 AM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 11:49:22 AM: INFO: === test 3_password eye Test: PASS
+06/10/2022 11:49:24 AM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 11:49:35 AM: ERROR: === Test_4_valid_Login_EnterKey: FAIL
+06/10/2022 11:50:23 AM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 11:50:28 AM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 11:50:31 AM: INFO: === Test_2_valid_Login ===
+06/10/2022 11:50:42 AM: INFO: === test 2_Valid Login Test: PASS
+06/10/2022 11:50:44 AM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 11:50:52 AM: INFO: === test 3_password eye Test: PASS
+06/10/2022 11:50:54 AM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 11:51:06 AM: INFO: === Test_4_valid_Login_EnterKey: PASS
+06/10/2022 11:52:01 AM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 11:52:05 AM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 11:52:07 AM: INFO: === Test_2_valid_Login ===
+06/10/2022 11:52:12 AM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 11:52:19 AM: INFO: === test 3_password eye Test: PASS
+06/10/2022 11:52:21 AM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 11:52:34 AM: ERROR: === Test_4_valid_Login_EnterKey: FAIL
+06/10/2022 11:52:35 AM: INFO: === Test_5_valid TAB key ===
+06/10/2022 01:34:07 PM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 01:34:12 PM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 01:34:14 PM: INFO: === Test_2_valid_Login ===
+06/10/2022 01:34:19 PM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 01:34:28 PM: INFO: === test 3_password eye Test: PASS
+06/10/2022 01:34:30 PM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 01:34:45 PM: INFO: === Test_5_valid TAB key ===
+06/10/2022 01:37:10 PM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 01:37:16 PM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 01:37:18 PM: INFO: === Test_2_valid_Login ===
+06/10/2022 01:37:29 PM: INFO: === test 2_Valid Login Test: PASS
+06/10/2022 01:37:32 PM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 01:37:41 PM: INFO: === test 3_password eye Test: PASS
+06/10/2022 01:37:43 PM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 01:37:56 PM: INFO: === Test_5_valid TAB key ===
+06/10/2022 01:38:46 PM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 01:38:50 PM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 01:38:53 PM: INFO: === Test_2_valid_Login ===
+06/10/2022 01:39:04 PM: INFO: === test 2_Valid Login Test: PASS
+06/10/2022 01:39:06 PM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 01:39:16 PM: INFO: === test 3_password eye Test: PASS
+06/10/2022 01:39:18 PM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 01:39:31 PM: INFO: === Test_5_valid TAB key ===
+06/10/2022 01:43:16 PM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 01:43:21 PM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 01:43:23 PM: INFO: === Test_2_valid_Login ===
+06/10/2022 01:43:34 PM: INFO: === test 2_Valid Login Test: PASS
+06/10/2022 01:43:37 PM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 01:43:46 PM: INFO: === test 3_password eye Test: PASS
+06/10/2022 01:43:49 PM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 01:44:02 PM: INFO: === Test_4_valid_Login_EnterKey: PASS
+06/10/2022 01:44:04 PM: INFO: === Test_5_valid TAB key ===
+06/10/2022 01:44:15 PM: INFO: === Test_5_valid TAB key Test: PASS
+06/10/2022 02:07:43 PM: INFO: === Test_1_FUNCTION forgot_password ===
+06/10/2022 02:07:46 PM: INFO: === Test_1_FUNCTION forgot_password: PASS
+06/10/2022 02:07:54 PM: INFO: === Test_2_FUNCTION_facebook ===
+06/10/2022 02:07:56 PM: INFO: === Test_2_FUNCTION_facebook: PASS
+06/10/2022 02:08:04 PM: INFO: === Test_3_FUNCTION_gmail ===
+06/10/2022 02:08:06 PM: INFO: === Test_3_FUNCTION_gmail: PASS
+06/10/2022 02:21:07 PM: INFO: === Test_1_FUNCTION forgot_password ===
+06/10/2022 02:21:10 PM: INFO: === Test_1_FUNCTION forgot_password: PASS
+06/10/2022 02:21:17 PM: INFO: === Test_2_FUNCTION_facebook ===
+06/10/2022 02:21:17 PM: ERROR: === Test_2_FUNCTION_facebook: FAIL
+06/10/2022 02:21:24 PM: INFO: === Test_3_FUNCTION_gmail ===
+06/10/2022 02:21:26 PM: INFO: === Test_3_FUNCTION_gmail: PASS
+06/10/2022 02:21:33 PM: INFO: === Test_4_FUNCTION_register_page ===
+06/10/2022 02:21:35 PM: INFO: === Test_4_FUNCTION_register_page: PASS
+06/10/2022 02:21:41 PM: INFO: === Test_5_FUNCTION_playstore_page ===
+06/10/2022 02:21:45 PM: INFO: === Test_5_FUNCTION_playstore_page: PASS
+06/10/2022 02:21:52 PM: INFO: === Test_6_FUNCTION_appstore_page ===
+06/10/2022 02:21:56 PM: INFO: === Test_6_FUNCTION_appstore_page: PASS
+06/10/2022 02:33:42 PM: INFO: === Test_1_FUNCTION forgot_password ===
+06/10/2022 02:33:44 PM: INFO: === Test_1_FUNCTION forgot_password: PASS
+06/10/2022 02:33:51 PM: INFO: === Test_2_FUNCTION_facebook ===
+06/10/2022 02:33:55 PM: INFO: === Test_2_FUNCTION_facebook: PASS
+06/10/2022 02:34:02 PM: INFO: === Test_3_FUNCTION_gmail ===
+06/10/2022 02:34:06 PM: INFO: === Test_3_FUNCTION_gmail: PASS
+06/10/2022 02:34:14 PM: INFO: === Test_4_FUNCTION_register_page ===
+06/10/2022 02:34:17 PM: INFO: === Test_4_FUNCTION_register_page: PASS
+06/10/2022 02:34:24 PM: INFO: === Test_5_FUNCTION_playstore_page ===
+06/10/2022 02:34:30 PM: INFO: === Test_5_FUNCTION_playstore_page: PASS
+06/10/2022 02:34:38 PM: INFO: === Test_6_FUNCTION_appstore_page ===
+06/10/2022 02:34:58 PM: INFO: === Test_6_FUNCTION_appstore_page: PASS
+06/10/2022 02:35:06 PM: INFO: === Test_7_FUNCTION_populixLogo_button ===
+06/10/2022 02:38:06 PM: INFO: === Test_1_FUNCTION forgot_password ===
+06/10/2022 02:38:08 PM: INFO: === Test_1_FUNCTION forgot_password: PASS
+06/10/2022 02:38:15 PM: INFO: === Test_2_FUNCTION_facebook ===
+06/10/2022 02:38:20 PM: INFO: === Test_2_FUNCTION_facebook: PASS
+06/10/2022 02:38:27 PM: INFO: === Test_3_FUNCTION_gmail ===
+06/10/2022 02:38:31 PM: INFO: === Test_3_FUNCTION_gmail: PASS
+06/10/2022 02:38:39 PM: INFO: === Test_4_FUNCTION_register_page ===
+06/10/2022 02:38:42 PM: INFO: === Test_4_FUNCTION_register_page: PASS
+06/10/2022 02:38:50 PM: INFO: === Test_5_FUNCTION_playstore_page ===
+06/10/2022 02:38:56 PM: INFO: === Test_5_FUNCTION_playstore_page: PASS
+06/10/2022 02:39:02 PM: INFO: === Test_6_FUNCTION_appstore_page ===
+06/10/2022 02:39:09 PM: INFO: === Test_7_FUNCTION_populixLogo_button ===
+06/10/2022 02:39:16 PM: INFO: === Test_7_FUNCTION_populixLogo_button: PASS
+06/10/2022 02:40:02 PM: INFO: === Test_1_FUNCTION forgot_password ===
+06/10/2022 02:40:05 PM: INFO: === Test_1_FUNCTION forgot_password: PASS
+06/10/2022 02:40:12 PM: INFO: === Test_2_FUNCTION_facebook ===
+06/10/2022 02:40:16 PM: INFO: === Test_2_FUNCTION_facebook: PASS
+06/10/2022 02:40:24 PM: INFO: === Test_3_FUNCTION_gmail ===
+06/10/2022 02:40:28 PM: INFO: === Test_3_FUNCTION_gmail: PASS
+06/10/2022 02:40:36 PM: INFO: === Test_4_FUNCTION_register_page ===
+06/10/2022 02:40:39 PM: INFO: === Test_4_FUNCTION_register_page: PASS
+06/10/2022 02:40:46 PM: INFO: === Test_5_FUNCTION_playstore_page ===
+06/10/2022 02:40:52 PM: INFO: === Test_5_FUNCTION_playstore_page: PASS
+06/10/2022 02:40:59 PM: INFO: === Test_6_FUNCTION_appstore_page ===
+06/10/2022 02:41:43 PM: INFO: === Test_6_FUNCTION_appstore_page: PASS
+06/10/2022 02:41:50 PM: INFO: === Test_7_FUNCTION_populixLogo_button ===
+06/10/2022 02:41:58 PM: INFO: === Test_7_FUNCTION_populixLogo_button: PASS
+
+06/10/2022 10:47:41 PM: INFO: === Test_1_FUNCTION forgot_password ===
+06/10/2022 10:47:41 PM: INFO: === Test_1_FUNCTION forgot_password ===
+06/10/2022 10:47:44 PM: INFO: === Test_1_FUNCTION forgot_password: PASS
+06/10/2022 10:47:44 PM: INFO: === Test_1_FUNCTION forgot_password: PASS
+06/10/2022 10:47:49 PM: INFO: === Test_2_FUNCTION_facebook ===
+06/10/2022 10:47:49 PM: INFO: === Test_2_FUNCTION_facebook ===
+06/10/2022 10:47:53 PM: INFO: === Test_2_FUNCTION_facebook: PASS
+06/10/2022 10:47:53 PM: INFO: === Test_2_FUNCTION_facebook: PASS
+06/10/2022 10:47:58 PM: INFO: === Test_3_FUNCTION_gmail ===
+06/10/2022 10:47:58 PM: INFO: === Test_3_FUNCTION_gmail ===
+06/10/2022 10:48:02 PM: INFO: === Test_3_FUNCTION_gmail: PASS
+06/10/2022 10:48:02 PM: INFO: === Test_3_FUNCTION_gmail: PASS
+06/10/2022 10:48:07 PM: INFO: === Test_4_FUNCTION_register_page ===
+06/10/2022 10:48:07 PM: INFO: === Test_4_FUNCTION_register_page ===
+06/10/2022 10:48:10 PM: INFO: === Test_4_FUNCTION_register_page: PASS
+06/10/2022 10:48:10 PM: INFO: === Test_4_FUNCTION_register_page: PASS
+06/10/2022 10:48:15 PM: INFO: === Test_5_FUNCTION_playstore_page ===
+06/10/2022 10:48:15 PM: INFO: === Test_5_FUNCTION_playstore_page ===
+06/10/2022 10:48:19 PM: INFO: === Test_5_FUNCTION_playstore_page: PASS
+06/10/2022 10:48:19 PM: INFO: === Test_5_FUNCTION_playstore_page: PASS
+06/10/2022 10:48:24 PM: INFO: === Test_6_FUNCTION_appstore_page ===
+06/10/2022 10:48:24 PM: INFO: === Test_6_FUNCTION_appstore_page ===
+06/10/2022 10:48:42 PM: INFO: === Test_6_FUNCTION_appstore_page: PASS
+06/10/2022 10:48:42 PM: INFO: === Test_6_FUNCTION_appstore_page: PASS
+06/10/2022 10:48:49 PM: INFO: === Test_7_FUNCTION_populixLogo_button ===
+06/10/2022 10:48:49 PM: INFO: === Test_7_FUNCTION_populixLogo_button ===
+06/10/2022 10:48:53 PM: INFO: === Test_7_FUNCTION_populixLogo_button: PASS
+06/10/2022 10:48:53 PM: INFO: === Test_7_FUNCTION_populixLogo_button: PASS
+06/10/2022 10:49:00 PM: INFO: === Test_1_invalid_Login_wrong format EMAIL ===
+06/10/2022 10:49:00 PM: INFO: === Test_1_invalid_Login_wrong format EMAIL ===
+06/10/2022 10:49:02 PM: INFO: === test 1_invalid wrong format Email Login Test: PASS
+06/10/2022 10:49:02 PM: INFO: === test 1_invalid wrong format Email Login Test: PASS
+06/10/2022 10:49:09 PM: INFO: === Test_1_invalid_Login_wrong format EMAIL ===
+06/10/2022 10:49:09 PM: INFO: === Test_1_invalid_Login_wrong format EMAIL ===
+06/10/2022 10:49:11 PM: INFO: === test 1_invalid wrong format Email Login Test: PASS
+06/10/2022 10:49:11 PM: INFO: === test 1_invalid wrong format Email Login Test: PASS
+06/10/2022 10:49:19 PM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 10:49:19 PM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 10:49:21 PM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 10:49:21 PM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 10:49:28 PM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 10:49:28 PM: INFO: === Test_2_invalid_Login_empty EMAIL ===
+06/10/2022 10:49:31 PM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 10:49:31 PM: INFO: === test 2_invalid empty Email Login Test: PASS
+06/10/2022 10:49:38 PM: INFO: === Test_3_invalid_Login_empty PASSWORD ===
+06/10/2022 10:49:38 PM: INFO: === Test_3_invalid_Login_empty PASSWORD ===
+06/10/2022 10:49:40 PM: INFO: === test 3_invalid empty PASSWORD Login Test: PASS
+06/10/2022 10:49:40 PM: INFO: === test 3_invalid empty PASSWORD Login Test: PASS
+06/10/2022 10:49:47 PM: INFO: === Test_3_invalid_Login_empty PASSWORD ===
+06/10/2022 10:49:47 PM: INFO: === Test_3_invalid_Login_empty PASSWORD ===
+06/10/2022 10:49:49 PM: INFO: === test 3_invalid empty PASSWORD Login Test: PASS
+06/10/2022 10:49:49 PM: INFO: === test 3_invalid empty PASSWORD Login Test: PASS
+06/10/2022 10:49:55 PM: INFO: === Test_3_invalid_Login_empty PASSWORD ===
+06/10/2022 10:49:55 PM: INFO: === Test_3_invalid_Login_empty PASSWORD ===
+06/10/2022 10:49:57 PM: INFO: === test 3_invalid empty PASSWORD Login Test: PASS
+06/10/2022 10:49:57 PM: INFO: === test 3_invalid empty PASSWORD Login Test: PASS
+06/10/2022 10:50:04 PM: INFO: === Test_4_invalid_Login_empty EMAIL & PASSWORD ===
+06/10/2022 10:50:04 PM: INFO: === Test_4_invalid_Login_empty EMAIL & PASSWORD ===
+06/10/2022 10:50:06 PM: INFO: === Test 4_invalid_Login_empty EMAIL & PASSWORD: PASS
+06/10/2022 10:50:06 PM: INFO: === Test 4_invalid_Login_empty EMAIL & PASSWORD: PASS
+06/10/2022 10:50:12 PM: INFO: === Test_5_invalid_Login_PASSWORD ===
+06/10/2022 10:50:12 PM: INFO: === Test_5_invalid_Login_PASSWORD ===
+06/10/2022 10:50:14 PM: INFO: === test 5_invalid_Login_PASSWORD: PASS
+06/10/2022 10:50:14 PM: INFO: === test 5_invalid_Login_PASSWORD: PASS
+06/10/2022 10:50:22 PM: INFO: === Test_5_invalid_Login_PASSWORD ===
+06/10/2022 10:50:22 PM: INFO: === Test_5_invalid_Login_PASSWORD ===
+06/10/2022 10:50:24 PM: INFO: === test 5_invalid_Login_PASSWORD: PASS
+06/10/2022 10:50:24 PM: INFO: === test 5_invalid_Login_PASSWORD: PASS
+06/10/2022 10:50:31 PM: INFO: === Test_5_invalid_Login_PASSWORD ===
+06/10/2022 10:50:31 PM: INFO: === Test_5_invalid_Login_PASSWORD ===
+06/10/2022 10:50:33 PM: INFO: === test 5_invalid_Login_PASSWORD: PASS
+06/10/2022 10:50:33 PM: INFO: === test 5_invalid_Login_PASSWORD: PASS
+06/10/2022 10:50:35 PM: INFO: === Test_1_valid_Title_Login ===
+06/10/2022 10:50:40 PM: INFO: === test 1_Login Page Title: PASS
+06/10/2022 10:50:42 PM: INFO: === Test_2_valid_Login ===
+06/10/2022 10:50:54 PM: INFO: === test 2_Valid Login Test: PASS
+06/10/2022 10:50:56 PM: INFO: === Test_3_valid_password_eye_icon ===
+06/10/2022 10:51:05 PM: INFO: === test 3_password eye Test: PASS
+06/10/2022 10:51:08 PM: INFO: === Test_4_valid_Login_EnterKey ===
+06/10/2022 10:51:21 PM: INFO: === Test_4_valid_Login_EnterKey: PASS
+06/10/2022 10:51:24 PM: INFO: === Test_5_valid TAB key ===
+06/10/2022 10:51:33 PM: INFO: === Test_5_valid TAB key Test: PASS
