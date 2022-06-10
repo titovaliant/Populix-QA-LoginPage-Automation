@@ -18,9 +18,11 @@ In the framework all the files will communicate each other to perform certain ta
 ### Concepts Included
 
 1). Built-in Frameworks
+    
     pytest
 
 2). Customized/User defined frameworks
+
     Data driven framework, Keyword driven framework, Hybrid driven framework
 
 ## 1. A detailed test cases 
