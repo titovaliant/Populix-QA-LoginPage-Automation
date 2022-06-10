@@ -107,8 +107,8 @@ To run Function tests only, navigate to `/testCases` directory and run:
 
 ### *POPULIX RECRUITER NOTE*: 
 
-B. Create a Bash Script for login function with following requirements is available inside this file. I Name it with login.sh
+B. Create a Bash Script for login function with following requirements is available inside this file. I Name it with `login.sh`
 
-C. Explain briefly between test suite, test case, and test step! is available inside this file. I Name it with setup.txt
+C. Explain briefly between test suite, test case, and test step! is available inside this file. I Name it with `tes teori POPULIX bab C & D.txt`
 
-D. What's the difference between regression test and non-regression test? is available inside this file. I Name it with setup.txt
+D. What's the difference between regression test and non-regression test? is available inside this file. I Name it with `tes teori POPULIX bab C & D.txt`
