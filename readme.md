@@ -1,16 +1,18 @@
-### Automation-Testing [Populix - QA_TEST]
+## Automation-Testing [Populix - QA_TEST]
 Automation Using Selenium Hybrid Framework
 (Python, Selenium, PyTest, Page Object Model, HTML Reports)
 
 Prepared by:
 **Tito Valiant Muhammad - QA Engineer Candidate**
 
-## What is Framework?
+### What is Framework?
 framework is an organized way maintaining automation files.
+
 In the framework all the files will communicate each other to perform certain task.
 
 ## Objective/Goals:
 1). Re-usuability
+
 2). Maintainability
 
 ## Concepts Included
