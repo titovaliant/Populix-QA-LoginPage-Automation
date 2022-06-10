@@ -9,8 +9,7 @@ Prepared by:
 framework is an organized way maintaining automation files.
 In the framework all the files will communicate each other to perform certain task.
 
-# Objective/Goals:
-
+## Objective/Goals:
 1). Re-usuability
 2). Maintainability
 
@@ -93,3 +92,8 @@ To run Function tests only, navigate to `/testCases` directory and run:
 `$ pytest  -v --html=Reports\report_function_Test.html testCases\test_login_function.py --self-contained-html`
 
 *NOTE*: They will also generate a security risks HTML report in `'Reports\report_function_Test.html'`
+
+#*POPULIX RECRUITER NOTE*: 
+B. Create a Bash Script for login function with following requirements is available inside this file. I Name it with login.sh
+C. Explain briefly between test suite, test case, and test step! is available inside this file. I Name it with setup.txt
+D. What's the difference between regression test and non-regression test? is available inside this file. I Name it with setup.txt
