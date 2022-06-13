@@ -104,12 +104,12 @@ To run Function tests only, navigate to `/testCases` directory and run:
 
 *NOTE*: They will also generate a security risks HTML report in `'Reports\report_function_Test.html'`
 
-### *POPULIX RECRUITER NOTE*: 
+### *POPULIX NOTE*: 
 
 B. Create a Bash Script for login function with following requirements is available inside this file. I Name it with `login.sh`
 
 C. Explain briefly between test suite, test case, and test step! is available inside this file. 
-   I Name it with `tes teori POPULIX bab C & D.txt`
+   I Name it with `teori POPULIX bab C & D.txt`
 
 D. What's the difference between regression test and non-regression test? is available inside this file. 
-   I Name it with `tes teori POPULIX bab C & D.txt`
+   I Name it with `teori POPULIX bab C & D.txt`
